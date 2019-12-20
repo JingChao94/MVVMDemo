@@ -1,4 +1,3 @@
-# MVVMDemo
 # WPF练手项目
 # 目标有三:
 #    1.MVVM
