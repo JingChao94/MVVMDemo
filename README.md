@@ -1,5 +1,5 @@
 # WPF练手项目
-# 目标有三:
-#    1.MVVM
-#    2.Style
-#    3.CustomControl
+## 目标:
+###    1.MVVM
+###    2.Style
+###    3.CustomControl
